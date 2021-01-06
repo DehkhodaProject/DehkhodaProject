@@ -2,6 +2,10 @@
 
 ## Dehkhoda Dictionary
 
+
+# Download: Please go to [Release Page](https://github.com/DehkhodaProject/DehkhodaProject/releases)
+
+
 This Encyclopedic Dictionary is a gift from one of Distinguished Linguist, Allameh Ali Akbar Dehkhodā, to Iranians. Unfortunately University of Tehran Press doesn't act base on Dehkhodā's will and don't publish the dataset for decades.
 
 They recently build a website which we can query words: https://icps.ut.ac.ir/fa/dictionary
